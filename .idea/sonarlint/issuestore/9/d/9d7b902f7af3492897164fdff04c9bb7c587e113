@@ -1,0 +1,14 @@
+
+k
+java:S1604-"(Make this anonymous inner class a lambda(É–Ó 8‚ì1J$bf45ac39-fb2b-4c6a-a0c1-78f7fa1d303f
+k
+java:S1604="(Make this anonymous inner class a lambda(Ã¼‹—8¿‚ì1J$7c3cedc9-4253-4dbe-82a7-7899abcddbac
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ì™íÙ8‚ì1J$194a86a2-fc6d-4aa9-9d64-61f0716924a1
+‹
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ºÀœx8™‚ì1J$62dd22b3-0a60-4310-965c-66d0c607f2e1
+n
+java:S1481"&Remove this unused "c" local variable.(ÎÖš“øÿÿÿÿ8š‚ì1J$51d2e2d6-59bc-449a-afbe-fd46640c3156
+r	java:S1066"+Replace this use of System.out by a logger.(ë÷‹Ûÿÿÿÿÿ8‚ì1J$bd96189b-eff0-414d-8efb-13c7ed04d427
+r	java:S1067"+Replace this use of System.out by a logger.(™º©‡ûÿÿÿÿ8‚ì1J$28f86c79-5916-4d8b-afb4-afbad6f5c7cc
+m	java:S1068"+Replace this use of System.out by a logger.(ëáÙı8‚ì1J$e17334ef-3bae-4e18-8dba-1349b5aa0356
+r	java:S1069"+Replace this use of System.out by a logger.(˜¯ÚÃıÿÿÿÿ8Ÿ‚ì1J$f8788f60-481a-4ea1-a9df-fac13d4552b7

@@ -1,0 +1,8 @@
+
+P
+java:S3518":Make sure "num2" can't be zero before doing this division.(òô–
+8
+java:S1659""Declare "num2" on a separate line.(à„øÔ
+@	java:S106"+Replace this use of System.out by a logger.(òô–
+E	java:S106	"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(—ÜÑüÿÿÿÿ

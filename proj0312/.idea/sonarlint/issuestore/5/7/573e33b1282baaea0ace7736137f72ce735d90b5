@@ -1,0 +1,10 @@
+
+7
+java:S1220""Move this file to a named package.8ìµÄŒã1
+}
+java:S3518":Make sure "num2" can't be zero before doing this division.(òô–8ŸÒüŠã1J$e7c1843c-0250-4d72-ba57-0796ca0cb16b
+e
+java:S1659""Declare "num2" on a separate line.(à„øÔ8¢ÒüŠã1J$32ffbb5f-8cea-4f7d-8073-b5ad384bf96d
+m	java:S106"+Replace this use of System.out by a logger.(òô–8¤ÒüŠã1J$961eb517-2d35-4433-ab90-ec906619d4c8
+r	java:S106	"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8¥ÒüŠã1J$ddafcf0e-747b-4f97-b0e2-d9777a5196fd
+r	java:S106"+Replace this use of System.out by a logger.(—ÜÑüÿÿÿÿ8¥ÒüŠã1J$be723bf3-300f-4c81-9167-bff3252ebaec

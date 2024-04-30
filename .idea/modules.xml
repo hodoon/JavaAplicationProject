@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/javaWorkSpace.iml" filepath="$PROJECT_DIR$/.idea/javaWorkSpace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proj0305/proj0305.iml" filepath="$PROJECT_DIR$/proj0305/proj0305.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proj0312/proj0312.iml" filepath="$PROJECT_DIR$/proj0312/proj0312.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proj0319/proj0319.iml" filepath="$PROJECT_DIR$/proj0319/proj0319.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proj0409/proj0409.iml" filepath="$PROJECT_DIR$/proj0409/proj0409.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proj0416/proj0416.iml" filepath="$PROJECT_DIR$/proj0416/proj0416.iml" />
+    </modules>
+  </component>
+</project>

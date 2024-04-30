@@ -1,0 +1,13 @@
+
+Y
+java:S6208"CMerge the previous cases into this one using comma-separated label.(…ÙçÏ
+^
+java:S6208"CMerge the previous cases into this one using comma-separated label.(Æ¿Ò®úÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(»”Öè
+@	java:S106	"+Replace this use of System.out by a logger.(ù©ÑŞ
+E	java:S106"+Replace this use of System.out by a logger.(Å£Şªşÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(œ¶‹Ùøÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ÓÆÎíÿÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(¿Ö¼ÿÿÿÿÿ
+T
+java:S1128">Remove this unused import 'java.util.zip.CheckedOutputStream'.(Êóàû

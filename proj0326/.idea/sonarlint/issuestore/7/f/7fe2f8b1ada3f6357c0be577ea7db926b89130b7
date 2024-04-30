@@ -1,0 +1,11 @@
+
+]
+java:S1220""Move this file to a named package.8´ÂêÊç1J$56db39cd-f312-4245-bd39-400d227b0d1a
+‘
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ËØü¸8ÌÂêÊç1J$6546114b-bb10-4f73-905b-55c67afc4067
+
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(‡—½Ò8ÌÂêÊç1J$0af2ab59-11cf-492f-b060-f8c66643a642
+r	java:S106"+Replace this use of System.out by a logger.(ç­»óøÿÿÿÿ8ÓÂêÊç1J$8c9996dd-5839-4c5c-ae00-d816ea7442ff
+m	java:S106"+Replace this use of System.out by a logger.(¦ ëñ8ÓÂêÊç1J$a6f83df6-b170-4fc3-8fed-57baef21b5fd
+m	java:S106"+Replace this use of System.out by a logger.(×Ö°8ÔÂêÊç1J$4d345ad2-d698-481e-9377-26251ca60ac1
+l	java:S106"+Replace this use of System.out by a logger.(ÃÂó8ÔÂêÊç1J$dde1b9dd-6fca-47f8-9e85-fc2e224e8a58

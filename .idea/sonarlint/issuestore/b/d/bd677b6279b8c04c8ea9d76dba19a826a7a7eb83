@@ -1,0 +1,14 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜…¥‰
+^
+java:S2095	"HUse try-with-resources or close this "FileReader" in a "finally" clause.(¬Âü§
+b
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(½³âŸ
+M
+java:S1854"7Remove this useless assignment to local variable "bin".(½³âŸ
+>
+java:S1481"(Remove this unused "bin" local variable.(½³âŸ
+E	java:S106"+Replace this use of System.out by a logger.(¡ø©İıÿÿÿÿ
+?	java:S106"+Replace this use of System.out by a logger.(Æ­ú
+E	java:S106"+Replace this use of System.out by a logger.(ªµÃĞøÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(…’Èıÿÿÿÿ

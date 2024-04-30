@@ -1,0 +1,7 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜…¥‰J$66faa98a-d520-4d48-995e-de57075874c2
+„
+java:S2095"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(•·‡ÀJ$39a5e966-2b44-476d-8209-2d5df148acc0
+b
+java:S1481"&Remove this unused "c" local variable.(»ç»“J$a7639a93-28e1-4855-97e9-f396ebafc6df
+f	java:S106"+Replace this use of System.out by a logger.(“ÉþžJ$16b89aba-c4cc-4506-8266-1c393f7896f7

@@ -1,0 +1,11 @@
+
+7
+java:S1220""Move this file to a named package.8Ó¶ÄŒã1
+m	java:S106"+Replace this use of System.out by a logger.(»”Öè8ÏÔ‰ã1J$1bb26d5f-e0a6-4cdf-8660-5a4714e9d052
+m	java:S106	"+Replace this use of System.out by a logger.(ù©ÑŞ8ÏÔ‰ã1J$b9a47bdd-4328-49be-b2cc-f1b6c305ad22
+r	java:S106"+Replace this use of System.out by a logger.(Å£Şªşÿÿÿÿ8—¾‰ã1J$806996fb-5ede-4417-b688-d465da10ebaa
+r	java:S106"+Replace this use of System.out by a logger.(œ¶‹Ùøÿÿÿÿ8­ô£‰ã1J$3711584b-0bf6-4024-83f3-bb293b427aec
+r	java:S106"+Replace this use of System.out by a logger.(ÓÆÎíÿÿÿÿÿ8¹ç¨‰ã1J$1c2755c5-9880-48f2-a44f-37897af9775a
+r	java:S106"+Replace this use of System.out by a logger.(¿Ö¼ÿÿÿÿÿ8¹ç¨‰ã1J$69fc5aa9-3a93-462b-a94c-a6fc7348ea56
+
+java:S1128">Remove this unused import 'java.util.zip.CheckedOutputStream'.(Êóàû8ÑÔ‰ã1J$d6e24219-4691-4fd0-ae61-545501988f69

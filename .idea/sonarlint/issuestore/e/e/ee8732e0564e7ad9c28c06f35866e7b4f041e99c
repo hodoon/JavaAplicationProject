@@ -1,0 +1,16 @@
+
+p
+java:S1604-"(Make this anonymous inner class a lambda(•†¡’üÿÿÿÿ8ã¹¹¬î1J$8a487682-36b6-44bb-b00c-1333bc74e7cb
+k
+java:S1604G"(Make this anonymous inner class a lambda(¿ÏÆ8ä¹¹¬î1J$95d99b54-e6d5-475a-8d80-bd94b24bff73
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ë¡ÆÅ8ç¹¹¬î1J$b8c5cc97-b79f-4124-a839-9f8ad5c48516
+‹
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ºÀœx8‚º¹¬î1J$515afdfd-d81b-4e42-9b28-8b4ae1c778dd
+r	java:S106+"+Replace this use of System.out by a logger.(úÌÿÿÿÿÿ8‡º¹¬î1J$9f6e815d-2fc1-497f-b0f5-27a550aeb367
+r	java:S106@"+Replace this use of System.out by a logger.(úÌÿÿÿÿÿ8Œº¹¬î1J$fec8b27c-3056-49d7-a824-4788c7cfdc5f
+l
+java:S2140S")Use "java.util.Random.nextInt()" instead.(šúÙæ8’º¹¬î1J$539d0d52-4ccc-4973-ad12-d1c310d29622
+}
+java:S1128":Remove this unused import 'java.awt.event.ActionListener'.(Ìä¹8×ÇÀ¬î1J$3edc39c9-03f9-4c40-8c05-9b3052de35a0
+u
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8×ÇÀ¬î1J$6ba3b38b-c08e-4dcf-bdb3-817c240de707

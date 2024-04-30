@@ -1,0 +1,8 @@
+
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”ϋ‰m8πςικι1J$f89a9836-875c-45dc-a0c8-7b903a10036f
+‹
+java:S3252
+"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Ίΐx8€σικι1J$802697c4-c446-4b1c-b366-f228d7a65f39
+r	java:S106"+Replace this use of System.out by a logger.(•ιÒεψÿÿÿÿ8†σικι1J$963c6f73-56da-42f1-87de-0812b1133338
+h
+java:S1128"%Remove this unused import 'java.awt'.(ο΄µ©8‰σικι1J$447c9101-040f-4ebc-a0bb-ebab63d8d194

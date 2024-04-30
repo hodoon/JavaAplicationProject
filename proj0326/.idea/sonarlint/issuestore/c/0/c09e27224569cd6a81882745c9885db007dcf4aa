@@ -1,0 +1,14 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜…¥‰8á„ñÌç1J$cc2f26e8-8c77-4ee9-80bc-c42464b77847
+
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(½³âŸ8í„ñÌç1J$bd0b061a-71b3-4526-b864-3ca7cfccea6f
+‹
+java:S2095	"HUse try-with-resources or close this "FileReader" in a "finally" clause.(¬Âü§8í„ñÌç1J$deb1b133-2a97-4cdb-8fa7-c366ae60cc50
+z
+java:S1854"7Remove this useless assignment to local variable "bin".(½³âŸ8ğ„ñÌç1J$080849b8-97e2-4a7a-99b6-1a8984af33a7
+k
+java:S1481"(Remove this unused "bin" local variable.(½³âŸ8ó„ñÌç1J$1aff3e88-5162-4ef4-b7cc-9094af9c9e72
+r	java:S106"+Replace this use of System.out by a logger.(¡ø©İıÿÿÿÿ8õ„ñÌç1J$b65c926a-a061-426a-893d-ef211d888065
+l	java:S106"+Replace this use of System.out by a logger.(Æ­ú8õ„ñÌç1J$83f471f3-7405-46dc-9868-fdec7174d874
+r	java:S106"+Replace this use of System.out by a logger.(ªµÃĞøÿÿÿÿ8÷„ñÌç1J$029ec767-13d3-42d1-b5cb-3b5879a450cb
+r	java:S106"+Replace this use of System.out by a logger.(…’Èıÿÿÿÿ8÷„ñÌç1J$33e42caa-2ae5-499e-99b5-467b00a457e0
