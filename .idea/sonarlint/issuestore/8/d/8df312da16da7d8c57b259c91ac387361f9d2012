@@ -1,0 +1,14 @@
+
+—
+java:S1192"ODefine a constant instead of duplicating this literal "ì› ì…ë‹ˆë‹¤." 4 times.(¦µ×ğüÿÿÿÿ8°ñÕíò1J$9528603a-7597-4902-aea2-ecf9beddfcb1
+p
+java:S1604 "(Make this anonymous inner class a lambda(Ñî‡øûÿÿÿÿ8ÏÛÒíò1J$3417b6d9-b4f7-4bb7-8624-1a2722a00a7c
+k
+java:S1604-"(Make this anonymous inner class a lambda(†¯ğñ8´ñÕíò1J$4ed9b80a-ebd6-4bad-bd79-345bff336b58
+p
+java:S1604:"(Make this anonymous inner class a lambda(ÚÊºùÿÿÿÿ8´ñÕíò1J$09aaebd9-8c6a-4ca4-a549-d4f35702d62d
+‘
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öşÿÿÿÿ8òÛÒíò1J$2d393689-3779-4f2a-bddc-ea01bc0a6ea4
+m	java:S106$"+Replace this use of System.out by a logger.(ĞÇƒš8üÛÒíò1J$2dafaa9f-fecb-40ce-822d-f4c05b3e8877
+m	java:S1061"+Replace this use of System.out by a logger.(ĞÇƒš8ÖñÕíò1J$f4239429-8916-4ec9-af1b-3e99612e7687
+m	java:S106>"+Replace this use of System.out by a logger.(ĞÇƒš8ØñÕíò1J$1d41d719-0554-478b-afac-7dd8dfe03e01
